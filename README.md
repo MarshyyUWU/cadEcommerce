@@ -97,7 +97,6 @@ mysqli_close($mysqli);
  
 ?>
 ```
-tem menu de contexto
 
 - Com ajuda da Julia Oliveira
 
