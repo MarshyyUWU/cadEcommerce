@@ -21,7 +21,7 @@ include_once('controller/conexao.php');
 
 <section id="produtos">
 
-    <form action="insere-produto_3A.php" method="post">
+    <form action="insere-produto.php" method="post">
     Nome:<input type="text" name="nome">
     <br>
     Descrição: <input type="text" name="descricao">
