@@ -1,13 +1,14 @@
-<h1 align="center">Cadastro de Ecommerce</h1>
+<h1 align="center">🛒 Cadastro de Ecommerce 🛒</h1>
 <p align="center">Um site / repositório de cadastro para mercado, usando html e phpmyadimim para cadastro de informações juntas a banco de dados.</p>
-<p align="center"><code>Usando de base um site pré desenvolvido pelo professor Leonardo Rocha, criamos em sala mais três páginas no mesmo modelo para cadastrar produtos,</code> <code>marca e categoria.</code></p>
+<p align="center"><code>Usando de base um site pré desenvolvido pelo professor Leonardo Rocha, criamos em sala mais três páginas no mesmo modelo para cadastrar produtos,</code>
 
 # Índice
 
 
 # 💕 Aplicação na página
 
-![](gifCad.gif)
+![Cadastro e compra de pedido](gifCad.gif)
+![Cadastro de marca para produto](registro-marca.gif)
 
 ## ❤️Descrição
 
